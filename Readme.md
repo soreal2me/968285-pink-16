@@ -1,7 +1,7 @@
 # Личный проект «Пинк» [![Build status][travis-image]][travis-url] [![Dependency status][dependency-image]][dependency-url]
 
-* Студент: [Влад Назин](https://up.htmlacademy.ru/adaptive/16/user/968285).
-* Наставник: `Неизвестно`.
+* Студент: [Влад Назин] (https://up.htmlacademy.ru/adaptive/16/user/968285).
+* Наставник: [Евгений Ванчугов] (https://htmlacademy.ru/profile/id94761).
 
 ---
 
